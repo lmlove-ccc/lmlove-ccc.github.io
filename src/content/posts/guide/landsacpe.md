@@ -5,7 +5,7 @@ description: "风景."
 image: "/src/assets/DSC_9457 拷贝.jpg"
 tags: [landsacpe]
 category: 照片
-draft: true
+draft: false
 ---
 **以下是我在上一年所拍的较为满意的照片**
  ![](</src/assets/images/DSC_9025 拷贝.jpg>)
